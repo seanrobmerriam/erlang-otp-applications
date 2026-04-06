@@ -1,4 +1,4 @@
-# Erlang OTP Applications
+# Erlang OTP Applications SKILL.md
 
 An agent skill for designing, reviewing, and bootstrapping Erlang/OTP applications.
 

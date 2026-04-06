@@ -1,6 +1,6 @@
 # Erlang OTP Applications
 
-A Codex skill for designing, reviewing, and bootstrapping Erlang/OTP applications.
+An agent skill for designing, reviewing, and bootstrapping Erlang/OTP applications.
 
 ## What It Covers
 

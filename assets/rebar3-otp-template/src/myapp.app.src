@@ -1,0 +1,8 @@
+{application, myapp,
+ [{description, "OTP application scaffold"},
+  {vsn, "0.1.0"},
+  {registered, [myapp_worker]},
+  {mod, {myapp_app, []}},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]}.
